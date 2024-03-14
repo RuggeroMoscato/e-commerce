@@ -9,13 +9,13 @@ const Contact = () => {
     <input type="email" placeholder='email' />
     <input type="password" placeholder='password' />
     <button className='Accedi'>
-
+Accedi
 </button>
-
+<p>terms of service</p>
 </form>
 
     </div>
   )
 }
 
-export default Contact
+export default Contact;
