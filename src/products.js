@@ -1,4 +1,4 @@
-import product1 from '../src/assets/1.png'
+import product1 from "../src/assets/1.png";
 import product2 from "../src/assets/2.png";
 import product3 from "../src/assets/3.png";
 import product4 from "../src/assets/4.png";

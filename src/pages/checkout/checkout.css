@@ -1,0 +1,74 @@
+.checkoutPage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 953px;
+  gap: 100px;
+
+}
+.checkoutPage form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  height: 70%;
+  min-height: 500px;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  background-color: rgba(128, 128, 128, 0.205);
+  border-radius: 10px;
+}
+.checkoutPage input {
+  width: 70%;
+  height: 10%;
+}
+.checkoutPage select {
+}
+
+.CheckoutItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.CheckoutItem .description {
+  width: 100%;
+  font-size: 20px;
+  display: flex;
+  justify-content: left;
+  gap: 10px;
+  margin-left: 20px;
+}
+.checkoutPage button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(19, 19, 19);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  .CheckoutItemPage{
+    background-color: rgba(128, 128, 128, 0.226);
+    border-radius: 10px;
+  }
+  .CheckoutItemContainer{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: left;
+margin-bottom: 380px;
+  }
+  .formContainer{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+  }
+  .checkoutCountHandler{
+    
+  }
